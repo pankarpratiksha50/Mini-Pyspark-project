@@ -1,11 +1,11 @@
 # Mini-Pyspark-project
 📌 Project Description
 
-This project demonstrates Data Analysis using PySpark on an orders dataset. It covers data ingestion, transformation, SQL queries, and storage using PySpark functionalities. The project includes:
+1).This project demonstrates Data Analysis using PySpark on an orders dataset. It covers data ingestion, transformation, SQL queries, and storage using PySpark functionalities. The project includes:
 
-Creating a SparkSession as the entry point.
+2).Creating a SparkSession as the entry point.
 
-Reading CSV data into a DataFrame with schema inference.
+3).Reading CSV data into a DataFrame with schema inference.
 
 Exploring data using .show() and .printSchema().
 
