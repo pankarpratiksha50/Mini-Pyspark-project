@@ -1,24 +1,24 @@
 # Mini-Pyspark-project
 📌 Project Description
 
-1).This project demonstrates Data Analysis using PySpark on an orders dataset. It covers data ingestion, transformation, SQL queries, and storage using PySpark functionalities. The project includes:
+1)This project demonstrates Data Analysis using PySpark on an orders dataset. It covers data ingestion, transformation, SQL queries, and storage using PySpark functionalities. The project includes:
 
-2).Creating a SparkSession as the entry point.
+2)Creating a SparkSession as the entry point.
 
-3).Reading CSV data into a DataFrame with schema inference.
+3)Reading CSV data into a DataFrame with schema inference.
 
-Exploring data using .show() and .printSchema().
+4)Exploring data using .show() and .printSchema().
 
-Applying User Defined Functions (UDFs) for custom transformations.
+5)Applying User Defined Functions (UDFs) for custom transformations.
 
-Using withColumn() to create new columns.
+6)Using withColumn() to create new columns.
 
-Registering DataFrames as temporary SQL views with createOrReplaceTempView() and running SQL queries.
+7)Registering DataFrames as temporary SQL views with createOrReplaceTempView() and running SQL queries.
 
-Formatting date columns with date_format().
+8)Formatting date columns with date_format().
 
-Implementing Window Functions (row_number, rank, sum over) for ranking and aggregation.
+9)Implementing Window Functions (row_number, rank, sum over) for ranking and aggregation.
 
-Writing processed data into Parquet and CSV formats.
+10)Writing processed data into Parquet and CSV formats.
 
-Demonstrating partitioning and saving results efficiently.
+11)Demonstrating partitioning and saving results efficiently.
